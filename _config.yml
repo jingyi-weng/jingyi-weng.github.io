@@ -24,7 +24,7 @@ repository               : "jingyi-weng/jingyi-weng.github.io"
 author:
   # Biographic information
   avatar           : "51c9d7973747bb2b371160edb317665f(1).jpg"
-  name             : "Jingyi Weng"
+  #name             : "Jingyi Weng"
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing, China"
